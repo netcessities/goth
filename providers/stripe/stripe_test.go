@@ -1,8 +1,8 @@
 package stripe_test
 
 import (
-	"github.com/markbates/goth"
-	"github.com/markbates/goth/providers/stripe"
+	"github.com/netcessities/goth"
+	"github.com/netcessities/goth/providers/stripe"
 	"github.com/stretchr/testify/assert"
 	"os"
 	"testing"

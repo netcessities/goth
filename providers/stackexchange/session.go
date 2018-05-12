@@ -11,7 +11,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/markbates/goth"
+	"github.com/netcessities/goth"
 )
 
 // Session stores data during the auth process with Facebook.
